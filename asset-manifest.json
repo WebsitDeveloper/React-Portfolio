@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.36350aeb.css",
+    "main.js": "/React_Portfolio/static/js/main.35a479e2.js",
+    "static/media/me.png": "/React_Portfolio/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/portfolio5.png": "/React_Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/hamza-about.jpg": "/React_Portfolio/static/media/hamza-about.38498d2fbc8b2b03b3e1.jpg",
+    "static/media/portfolio2.jpg": "/React_Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/React_Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/React_Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/React_Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/React_Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/hamza-resume.pdf": "/React_Portfolio/static/media/hamza-resume.435eb62da10fd22f1f36.pdf",
+    "index.html": "/React_Portfolio/index.html",
+    "main.36350aeb.css.map": "/React_Portfolio/static/css/main.36350aeb.css.map",
+    "main.35a479e2.js.map": "/React_Portfolio/static/js/main.35a479e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36350aeb.css",
+    "static/js/main.35a479e2.js"
+  ]
+}
